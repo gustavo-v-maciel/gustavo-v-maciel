@@ -1,16 +1,30 @@
-### Hi there 👋
+## Olá 👋, Eu sou o Gustavo Maciel
+  
 
-<!--
-**gustavo-v-maciel/gustavo-v-maciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Apaixonado por Tecnologia da Informação.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+. 🌱 Estou aprendendo **MySQL, SQL Server, Oracle, linguagens T-SQL e PLSQL, ambientes OLTP e OLAP, Banco de Dados Relacionais e BI**
+
+. 💬 Fale comigo sobre **SQL, Redes de Computadores, Protocolos de Rede (TCP/IP, UDP, HTTP, etc.), Algoritmos, Estrutura de Dados, Front-end**
+
+. 📫 Você me encontra através do e-mail gustavovmaciel@outlook.com
+
+. 📄 Saiba mais sobre mim no meu LinkedIn https://www.linkedin.com/in/gustavo-v-maciel 
+
+### Connect with me:
+<a href="https://www.linkedin.com/in/gustavo-v-maciel">
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
+
+### Languages and Tools:
+
+<div display="inline">
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />      
+</div>
+
+          
