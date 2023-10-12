@@ -8,7 +8,7 @@
 
 ![](https://komarev.com/ghpvc/?username=gustavo-v-maciel)
 
-. 🌱 Estou aprendendo **MySQL, SQL Server, Oracle, linguagens T-SQL e PLSQL, ambientes OLTP e OLAP, Banco de Dados Relacionais e BI**
+. 🌱 Estou aprendendo **MySQL, SQL Server, Oracle, linguagem T-SQL e PLSQL, ambiente OLTP e OLAP, Banco de Dados Relacionais e BI**
 
 . 💬 Fale comigo sobre **SQL, Análise de Dados, Redes de Computadores, Protocolos de Rede (TCP/IP, UDP, HTTP, etc.), Algoritmos**
 
