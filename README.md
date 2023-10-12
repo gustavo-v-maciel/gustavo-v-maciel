@@ -1,12 +1,16 @@
-## Olá 👋, Eu sou o Gustavo Maciel
-  
+<div align="center">
+  <h1>Olá 👋, Eu sou o Gustavo Maciel</h1>  
+</div>
 
-### Apaixonado por Tecnologia da Informação.
+<div align="center">
+  <em><h3>Apaixonado por Tecnologia da Informação.</h3></em>
+</div>
 
+![](https://komarev.com/ghpvc/?username=gustavo-v-maciel)
 
 . 🌱 Estou aprendendo **MySQL, SQL Server, Oracle, linguagens T-SQL e PLSQL, ambientes OLTP e OLAP, Banco de Dados Relacionais e BI**
 
-. 💬 Fale comigo sobre **SQL, Redes de Computadores, Protocolos de Rede (TCP/IP, UDP, HTTP, etc.), Algoritmos, Estrutura de Dados, Front-end**
+. 💬 Fale comigo sobre **SQL, Análise de Dados, Redes de Computadores, Protocolos de Rede (TCP/IP, UDP, HTTP, etc.), Algoritmos**
 
 . 📫 Você me encontra através do e-mail gustavovmaciel@outlook.com
 
@@ -18,13 +22,9 @@
 </a>
 
 ### Languages and Tools:
-
 <div display="inline">
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />      
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />  
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
-
-          
