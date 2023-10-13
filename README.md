@@ -10,7 +10,7 @@
 
 . 🌱 Estou aprendendo **MySQL, SQL Server, Oracle, linguagens T-SQL e PLSQL, ambientes OLTP e OLAP, Banco de Dados Relacionais e DAX**
 
-. 💬 Fale comigo sobre **SQL, Análise de Dados, Redes de Computadores, Protocolos de Rede (TCP/IP, UDP, HTTP, etc.), Algoritmos**
+. 💬 Fale comigo sobre **SQL, Business Intelligence, Análise de Dados, DAX , Big Data, Excel**
 
 . 📫 Você me encontra através do e-mail gustavovmaciel@outlook.com
 
