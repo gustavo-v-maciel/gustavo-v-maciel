@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <em><h3>Apaixonado por Análise de Dados, Ciência de Dados e Tecnologia da Informação.</h3></em>
+  <em><h3>Apaixonado por Dados, Sistemas, Redes e Tecnologia da Informação.</h3></em>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=gustavo-v-maciel)
