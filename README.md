@@ -8,9 +8,9 @@
 
 ![](https://komarev.com/ghpvc/?username=gustavo-v-maciel)
 
-. 🌱 Estou aprendendo **Análise Exploratória de Dados, Segurança de Dados, Modelagem e Machine Learning, Python Desenvolvimento Full Stack, Metodologias Ágeis e Programação**
+. 🌱 Estou aprendendo **Análise Exploratória de Dados, Segurança de Dados, ETL, Modelagem e Machine Learning, Estatística, Desenvolvimento Full Stack, Metodologias Ágeis, Engenharia de Software**
 
-. 💬 Fale comigo sobre **SQL, Power BI, Power Query, DAX, MySQL, SQL Server, Excel Análise de Dados, Excel, GIT, Redes de Computadores**
+. 💬 Fale comigo sobre **SQL, T-SQL, Python, Power BI, Análise de Dados, Excel, Análise de Sistemas, GIT, Redes de Computadores**
 
 . 📫 Você me encontra através do e-mail gustavovmaciel@outlook.com
 
