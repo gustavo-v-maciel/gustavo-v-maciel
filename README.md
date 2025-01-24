@@ -10,7 +10,7 @@
 
 . 🌱 Estou aprendendo **Implementação de VPNs e Redes Privadas; Sistemas de Detecção e Prevenção de Intrusão (IDS/IPS); Firewall e análise avançada de tráfego**
 
-. 💬 Fale comigo sobre **Redes de Computadores, Protocolos da Pilha TCP/IP, ZABBIX, Segurança Cibernética **
+. 💬 Fale comigo sobre **Redes de Computadores, Protocolos da Pilha TCP/IP, ZABBIX, Segurança Cibernética, Infraestrutura de Rede **
 
 . 📫 Você me encontra através do e-mail gustavovmaciel235@gmail.com
 
