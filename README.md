@@ -3,16 +3,16 @@
 </div>
 
 <div align="center">
-  <em><h3>Apaixonado por Dados, Sistemas, Redes e Tecnologia da Informação.</h3></em>
+  <em><h3>Apaixonado por Redes de Computadores e Tecnologia da Informação.</h3></em>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=gustavo-v-maciel)
 
-. 🌱 Estou aprendendo **Análise Exploratória de Dados, Segurança de Dados, ETL, Modelagem e Machine Learning, Estatística, Desenvolvimento Full Stack, Metodologias Ágeis, Engenharia de Software**
+. 🌱 Estou aprendendo **Implementação de VPNs e Redes Privadas; Sistemas de Detecção e Prevenção de Intrusão (IDS/IPS); Firewall e análise avançada de tráfego**
 
-. 💬 Fale comigo sobre **SQL, T-SQL, Python, Power BI, Análise de Dados, Excel, Análise de Sistemas, GIT, Redes de Computadores**
+. 💬 Fale comigo sobre **Redes de Computadores, Protocolos da Pilha TCP/IP, ZABBIX, Segurança Cibernética **
 
-. 📫 Você me encontra através do e-mail gustavovmaciel@outlook.com
+. 📫 Você me encontra através do e-mail gustavovmaciel235@gmail.com
 
 . 📄 Saiba mais sobre mim no meu LinkedIn https://www.linkedin.com/in/gustavov-maciel/
 
